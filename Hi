@@ -1,0 +1,4 @@
+git clone https://github.com/superXdev/Sistem-Diagnosa-Penyakit
+cd Sistem-Diagnosa-Penyakit
+composer install
+cp .env.example .env
